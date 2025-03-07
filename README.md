@@ -23,7 +23,7 @@
 
 ### 🔥 About Me
 - 🏗 Passionate about **Infrastructure as Code, CI/CD Pipelines, and Security Automation**
-- 🚀 Automating deployments with **Kubernetes, Helm, and Terraform**
+- 🚀 Automating deployments with **Kubernetes, Helm, and ArgoCD**
 - 🔍 Performing **SAST, SCA, and DAST security scans** for secure applications
 - 🎓 Certified in **Microsoft Azure AZ-900** // Have plan to get more cert soon
 - 📝 Blogging about **DevOps, Cloud, and Security best practices**
