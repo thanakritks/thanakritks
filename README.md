@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29F700&width=435&lines=DevOps+Engineer+%7C+Cloud+Architect+%7C+Automation+Expert" alt="Typing SVG" />
 </p>
 
+<h3 align="center">🔹Currently working for AIS Thailand</h3>
+
 ---
 
 ### 🛠 DevOps Toolkit
@@ -14,6 +16,8 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Checkmarx-FF9900?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Checkmarx-FF9900?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
 ---
@@ -22,6 +26,7 @@
 - 🏗 Passionate about **Infrastructure as Code, CI/CD Pipelines, and Security Automation**
 - 🚀 Automating deployments with **Kubernetes, Helm, and Terraform**
 - 🔍 Performing **SAST, SCA, and DAST security scans** for secure applications
+- 🎓 Certified in **Microsoft Azure AZ-900** // Have plan to get more cert soon
 - 📝 Blogging about **DevOps, Cloud, and Security best practices**
 
 ---
