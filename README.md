@@ -44,5 +44,5 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/thanankrit-kwansang-030823173)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thanankrit-kwansang-030823173"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
