@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29F700&width=435&lines=DevOps+Engineer+%7C+Cloud+Architect+%7C+Automation+Expert" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🔹Currently working for AIS Thailand</h3>
+<h3 align="center">🔹Working for AIS Thailand - unitil the end of Nov</h3>
 
 ---
 
