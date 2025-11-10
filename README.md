@@ -30,7 +30,10 @@
 - 🎓 Certified in **Microsoft Azure AZ-900** // Have plan to get more cert soon
 - 📝 Blogging about **DevOps, Cloud, and Security best practices**
 
+![Contribution Stats](./picture/contribute.png)
+
 ---
+
 
 ### 📫 Connect with Me
 <p align="center">
